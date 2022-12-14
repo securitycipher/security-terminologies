@@ -1,6 +1,8 @@
 # Security Terminologies
 A list of Security Terminologies that every Penetration tester should know 
 
+Access the List from this Link : https://securitycipher.com/security-terminologies/
+
 | Terminology  | Description |
 | --------- | ------------- |
 | Cross-Site-Script (XSS)	 | XSS is a type of injection attack that occurs when malicious code is injected into your web application via user input. This can allow attackers to steal cookies, access sensitive information, redirect users, etc. |
